@@ -38,7 +38,7 @@ Lenguaje: R
 
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
-| [Exploración de datos](https://github.com/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios descargados de Properati.|
+| [Exploración de datos](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios descargados de Properati.|
 
 *** 
 
@@ -53,14 +53,16 @@ Ejercicios hechos durante el curso de la Universidad de Stanford por el Prof. An
 <br></br>
 Lenguajes: R y Matlab.
 
-[Regresión lineal por gradiente descendiente](https://github.com/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb)
+| Notebook      | Descripción    |
+| ------------- |:--------------:|
+| [Regresión lineal por gradiente descendiente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en R. |
 <br></br>
-[Regresión lineal por ecuaciones normales](https://github.com/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb)
+[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en R. |
 
 ***  
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
-  width="350">
+  width="250">
 </p>
 
 ## Computrabajo
@@ -70,7 +72,7 @@ Web scraping y análisis de datos.
 
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/buenos-aires-data.jpg" alt="data-science-1" 
-  width="200">
+  width="350">
 </p>
 
 ## Buenos-Aires-Data
