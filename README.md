@@ -56,8 +56,7 @@ Lenguajes: R y Matlab.
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
 | [Regresión lineal por gradiente descendiente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en R. |
-<br></br>
-[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en R. |
+|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en R. |
 
 ***  
 <p align = "center">
