@@ -38,7 +38,7 @@ Lenguaje: R
 
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
-| [Exploración de datos](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios descargados de Properati.|
+| [Exploración de datos de alquiler](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios descargados de Properati.|
 ***  
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/coursera.jpeg" alt="data-science-1" 
@@ -53,8 +53,9 @@ Lenguajes: R y Matlab.
 
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
-| [Regresión lineal por gradiente descendiente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en R. |
-|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en R. |
+| [Regresión lineal por gradiente descendiente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/foodtruck-linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en R. |
+|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en R. |
+|[Ejercicios Matlab - Semana 2](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex1/ex1)|Regresión lineal simple y múltiple|
 ***  
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
