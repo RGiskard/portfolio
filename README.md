@@ -15,19 +15,22 @@
 *** 
 ##Indice
 *** 
-1. [Properati](#Properati)
-2. [Coursera](#Coursera)
-3. [Computrabajo](#Computrabajo)
-4. 
-5. 
-6. 
-7. 
-*** 
+1. [Properati](#properati)
+2. [Coursera](#coursera)
+3. [Computrabajo](#computrabajo)
+4. [Buenos Aires Data](#buenos-aires-data)
+5. [Pandas](#pandas)
+6. [Apache Spark](#apache-spark)
+7. [TensorFlow](#tensorflow)
+8. 
+
+***   
 
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/properati.jpg" alt="data-science-1" 
   width="350">
 </p>
+
 ## Properati
 Algunos análisis hechos sobre lo datos inmobiliarios provistos por [Properati](http://www.properati.com.ar/).
 <br></br>
@@ -37,14 +40,14 @@ Lenguaje: R
 | ------------- |:--------------:|
 | [Exploración de datos](https://github.com/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios descargados de Properati.|
 
+*** 
 
-
-
-## Coursera
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/coursera.jpeg" alt="data-science-1" 
   width="350">
 </p>
+
+## Coursera
 
 Ejercicios hechos durante el curso de la Universidad de Stanford por el Prof. Andrew Ng en [Coursera](https://www.coursera.org/learn/machine-learning).
 <br></br>
@@ -54,6 +57,52 @@ Lenguajes: R y Matlab.
 <br></br>
 [Regresión lineal por ecuaciones normales](https://github.com/martinehman/data-science-portfolio/blob/master/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb)
 
-##Computrabajo
+***  
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
+  width="350">
+</p>
 
+## Computrabajo
 Web scraping y análisis de datos.
+
+***  
+
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/buenos-aires-data.jpg" alt="data-science-1" 
+  width="200">
+</p>
+
+## Buenos-Aires-Data
+
+Analisis exploratorio de datos.
+
+***  
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/pandas.png" alt="data-science-1" 
+  width="350">
+</p>
+
+## Pandas
+Ejercicios con librería de Python, Pandas.
+
+***  
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/spark.png" alt="data-science-1" 
+  width="350">
+</p>
+
+## Apache-Spark
+Apache Spark en acción!
+
+***  
+
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/tensorflow.jpg" alt="data-science-1" 
+  width="350">
+</p>
+
+## TensorFlow
+Deep Learning con TensorFlow de Google!
+
+***  
