@@ -29,7 +29,7 @@ Lenguaje: R
 
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
-| [Exploración de datos de alquiler](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios descargados de Properati.|
+| [Exploración de datos de alquiler](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios de Properati.|
 ***  
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/coursera.jpeg" alt="data-science-1" 
@@ -38,7 +38,7 @@ Lenguaje: R
 
 ## Coursera
 
-Ejercicios hechos durante el curso de la Universidad de Stanford por el Prof. Andrew Ng en [Coursera](https://www.coursera.org/learn/machine-learning).
+Ejercicios hechos durante el curso de la Universidad de Stanford dictado por el Prof. Andrew Ng en [Coursera](https://www.coursera.org/learn/machine-learning).
 <br></br>
 Lenguajes: R y Matlab.
 
