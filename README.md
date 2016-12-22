@@ -3,7 +3,6 @@
 
 <h1 align="center">Data science portfolio</h1>
 
-*** 
 ##Indice
 
 1. [Properati](#properati)
