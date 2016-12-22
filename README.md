@@ -59,7 +59,16 @@ Lenguajes: R y Matlab.
 |[Ejercicio 1: Regresión Lineal](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex1/ex1)|Ejercicios resueltos en **Matlab** de regresión lineal simple y múltiple|
 |[Ejercicio 2: Regresión Logística](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex2/ex2)|Ejercicios resueltos en **Matlab** de regresión logística.|
 |[Ejercicio 3: Clasificación multiclase y redes neuronales](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex3/ex3)|Ejericios resueltos en **Matlab** de redes neuronales y clasificación multiclase|
-***  
+***
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/frutic.png" alt="data-science-1" 
+  width="250">
+</p>
+
+## FruTIC
+Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/portal/), una herramienta para el manejo integrado de cultivos cítricos. Los datos analizados corresponden a distintos lotes de naranjas y mandarinas de la región de Concordia, Entre Ríos.
+
+*** 
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
   width="250">
