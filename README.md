@@ -3,15 +3,6 @@
 
 <h1 align="center">Data science portfolio</h1>
 
-<p align="center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/ds1.jpg" alt="data-science-1" 
-  width="250">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/ds2.png" alt="data-science-1" 
-  width="250">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/ds3.png" alt="data-science-1" 
-  width="350">
-</p>
-
 *** 
 ##Indice
 
