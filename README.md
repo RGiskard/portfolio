@@ -103,7 +103,7 @@ Deep Learning con TensorFlow de Google!
 ***  
 
 <p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/scikit-learn.jpg" alt="data-science-1" 
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/scikit-learn.png" alt="data-science-1" 
   width="350">
 </p>
 
