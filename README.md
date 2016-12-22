@@ -17,12 +17,13 @@
 
 1. [Properati](#properati)
 2. [Coursera](#coursera)
-3. [Computrabajo](#computrabajo)
-4. [Buenos Aires Data](#buenos-aires-data)
-5. [Pandas](#pandas)
-6. [Apache Spark](#apache-spark)
-7. [TensorFlow](#tensorflow)
-8. 
+3. [FruTIC](#frutic)
+4. [Computrabajo](#computrabajo)
+5. [Buenos Aires Data](#buenos-aires-data)
+6. [Pandas](#pandas)
+7. [Apache Spark](#apache-spark)
+8. [TensorFlow](#tensorflow)
+9. [scikit-learn](#scikit-learn)
 
 ***   
 
@@ -109,3 +110,15 @@ Apache Spark en acción!
 
 ## TensorFlow
 Deep Learning con TensorFlow de Google!
+***  
+
+<p align = "center">
+  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/scikit-learn.jpg" alt="data-science-1" 
+  width="350">
+</p>
+
+## scikit-learn
+Machine learning con la librería de Python scikit-learn.
+
+***  
+
