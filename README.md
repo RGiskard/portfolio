@@ -45,8 +45,8 @@ Lenguajes: R y Matlab.
 <h3> Ejercicios resueltos en R </h3>
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
-| [Regresión lineal por gradiente descendiente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/foodtruck-linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en **R**. |
-|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/foodtruck-linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en **R**. |
+| [Regresión lineal por gradiente descendente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en **R**. |
+|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en **R**. |
 |[Regresión logística](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/logistic-regression/regresion-logistica.ipynb)|Resolución de ejercicio de regresión logística implementado en **R** utilizando una función de optimización para obtener los valores del costo y los parámetros a estimar.|
 |[Regresión logística regularizada](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/logistic-regression/regresion-logistica-regularizada.ipynb)|Resolución de ejercicio de regresión logística regularizada implementado en **R** utilizando la función optim() para obtener los valores ópitmos de theta.|
 
