@@ -45,18 +45,18 @@ Lenguajes: R y Matlab.
 <h3> Ejercicios resueltos en R </h3>
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
-| [Regresión lineal por gradiente descendente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendiente en **R**. |
-|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales en **R**. |
-|[Regresión logística](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/logistic-regression/regresion-logistica.ipynb)|Resolución de ejercicio de regresión logística implementado en **R** utilizando una función de optimización para obtener los valores del costo y los parámetros a estimar.|
-|[Regresión logística regularizada](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/logistic-regression/regresion-logistica-regularizada.ipynb)|Resolución de ejercicio de regresión logística regularizada implementado en **R** utilizando la función optim() para obtener los valores ópitmos de theta.|
+| [Regresión lineal por gradiente descendente](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/linear-regression/foodtruck-linear-regression-by-gradient-descent.ipynb) | Obtención de recta de regresión por medio de gradiente descendente. |
+|[Regresión lineal por ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/linear-regression/foodtruck-linear-regression-by-normal-equations.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales. |
+|[Regresión logística](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/logistic-regression/regresion-logistica.ipynb)|Resolución de ejercicio de regresión logística utilizando una función de optimización para obtener los valores del costo y los parámetros a estimar.|
+|[Regresión logística regularizada](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/logistic-regression/regresion-logistica-regularizada.ipynb)|Resolución de ejercicio de regresión logística regularizada utilizando la función optim() para obtener los valores ópitmos de theta.|
 |[Clasificación multiclase con redes neuronales] (http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/multiclass-classification/neural-network/multiclass-classification-neural-network.ipynb)|Reconocimiento de dígitos escritos a mano con redes neuronales.|
 
 <h3> Ejercicios resueltos en Matlab </h3>
 | Ejercicio      | Descripción    |
 | ------------- |:--------------:|
-|[Ejercicio 1: Regresión Lineal](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex1/ex1)|Ejercicios resueltos en **Matlab** de regresión lineal simple y múltiple|
-|[Ejercicio 2: Regresión Logística](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex2/ex2)|Ejercicios resueltos en **Matlab** de regresión logística.|
-|[Ejercicio 3: Clasificación multiclase y redes neuronales](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex3/ex3)|Ejericios resueltos en **Matlab** de redes neuronales y clasificación multiclase|
+|[Ejercicio 1: Regresión Lineal](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex1/ex1)|Ejercicios resueltos de regresión lineal simple y múltiple|
+|[Ejercicio 2: Regresión Logística](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex2/ex2)|Ejercicios resueltos de regresión logística.|
+|[Ejercicio 3: Clasificación multiclase y redes neuronales](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex3/ex3)|Ejericios resueltos de clasificación multiclase con regresión logística y redes neuronales|
 ***
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/frutic.png" alt="data-science-1" 
