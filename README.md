@@ -57,6 +57,10 @@ Lenguajes: R y Matlab.
 |[Ejercicio 1: Regresión Lineal](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex1/ex1)|Ejercicios resueltos de regresión lineal simple y múltiple|
 |[Ejercicio 2: Regresión Logística](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex2/ex2)|Ejercicios resueltos de regresión logística.|
 |[Ejercicio 3: Clasificación multiclase y redes neuronales](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex3/ex3)|Ejericios resueltos de clasificación multiclase con regresión logística y redes neuronales|
+|[Ejercicio 4: Aprendizaje con redes neuronales](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex4/ex4)|Ejercicios resueltos de redes neuronales con algoritmo de retropropagación.|
+|[Ejercicio 5: Regresión lineal regularizada y varianza vs. sesgo](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex5/ex5)|En este ejericio se utiliza la regresión lineal regularizada para estudiar modelos con distintas propiedades de sesgo y varianza.|
+|[Ejercicio 6: Support Vector Machines](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex6/ex6) | Ejercicios de implementación de SVM. |
+
 ***
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/frutic.png" alt="data-science-1" 
@@ -73,7 +77,7 @@ Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/po
 | [Exploración de outliers](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/2-exploracion-outliers.html) | Exploración de outliers y valores anómalos. |
 | [Segunda exploración de datos](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/3-segunda-exploracion.html) | Nueva exploración de datos luegos de realizar un preprocesamiento de los mismos. (Eliminar outliers, etc.) |
 | [Exploración dataset plagas](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/4-exploracion-plagas.html) | Exploración de los datasets de plagas y enfermedades. |
-| [Exploración de datos faltantes](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/5-exploracion-datos-faltantes.html) | Exploración visual de los datos faltantes en los datasets. |
+| [Exploración de datos faltantes](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/5-exploracion-datos-faltantes.html) | Exploración visual de datos faltantes en los datasets. |
 
 *** 
 <p align = "center">
