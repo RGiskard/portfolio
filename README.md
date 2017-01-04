@@ -100,14 +100,6 @@ Ejercicios con librería de Python, Pandas.
 ## Apache-Spark
 Apache Spark en acción!
 ***  
-<p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/tensorflow.jpg" alt="data-science-1" 
-  width="350">
-</p>
-
-## TensorFlow
-Deep Learning con TensorFlow de Google!
-***  
 
 <p align = "center">
   <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/scikit-learn.png" alt="data-science-1" 
