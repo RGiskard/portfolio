@@ -64,7 +64,16 @@ Lenguajes: R y Matlab.
 </p>
 
 ## FruTIC
-Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/portal/), una herramienta para el manejo integrado de cultivos cítricos. Los datos analizados corresponden a distintos lotes de naranjas y mandarinas de la región de Concordia, Entre Ríos.
+Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/portal/), una herramienta para el manejo integrado de cultivos cítricos. Los datos analizados corresponden a distintos lotes de naranjas y mandarinas de la región de Concordia, Entre Ríos. Los análisis corresponden al desarrollo de trabajo final de carrera para el título de Ingeniero en Informática bajo el tema: "Aplicación de técnicas de minería de datos a un repositorio de variables fitofenológicas de cultivos cítricos."
+
+| Recurso       | Descripción    |
+| ------------- |:--------------:|
+| [Anteproyecto](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/anteproyecto.pdf) | Anteproyecto de tesis. |
+| [Exploración de datos](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/1-exploracion-inicial.html) | Exploración inicial de los datasets.|
+| [Exploración de outliers](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/2-exploracion-outliers.html) | Exploración de outliers y valores anómalos. |
+| [Segunda exploración de datos](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/3-segunda-exploracion.html) | Nueva exploración de datos luegos de realizar un preprocesamiento de los mismos. (Eliminar outliers, etc.) |
+| [Exploración dataset plagas](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/4-exploracion-plagas.html) | Exploración de los datasets de plagas y enfermedades. |
+| [Exploración de datos faltantes](https://github.com/martinehman/data-science-portfolio/blob/master/frutic/5-exploracion-datos-faltantes.html) | Exploración visual de los datos faltantes en los datasets. |
 
 *** 
 <p align = "center">
