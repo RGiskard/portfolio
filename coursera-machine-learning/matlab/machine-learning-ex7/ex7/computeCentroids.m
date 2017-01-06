@@ -28,8 +28,11 @@ centroids = zeros(K, n);
 
 
 
-
-
+for i = 1:K
+    
+    idx_X = find(idx == i);
+    centroids(i,:) = mean(X(idx_X,:));
+end;
 
 
 
