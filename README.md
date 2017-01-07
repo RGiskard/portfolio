@@ -52,6 +52,8 @@ Lenguajes: R y Matlab.
 |[Clasificación multiclase con redes neuronales] (http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/multiclass-classification/neural-network/multiclass-classification-neural-network.ipynb)|Reconocimiento de dígitos escritos a mano con redes neuronales.|
 |[Clustering con k-means en 2D](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/k-means-clustering-2D.ipynb) | En este ejemplo se muestra una implementación del algoritmo de agrupamiento k-means en un dataset con dos atributos.|
 |[Compresión de imagen con k-means](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/image-compression-kmeans.ipynb) | Implementación del algoritmo de clustering k-means para compresión de imagenes. |
+|[Algoritmo PCA en un dataset 2D](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/PCA-in-2D.ipynb) | Aplicación del algoritmo PCA (Principal Component Analysis - Análisis de Componente Principal) para reducción de dimensionalidad. |
+|[Algoritmo PCA aplicado a dataset de imagenes de rostros](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/PCA-on-faces-dataset.ipynb) | Reducción de dimensionalidad en un dataset de rostros de personas a través de PCA. |
 
 <h3> Ejercicios resueltos en Matlab </h3>
 | Ejercicio      | Descripción    |
