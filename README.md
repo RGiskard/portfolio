@@ -62,6 +62,7 @@ Lenguajes: R y Matlab.
 |[Ejercicio 4: Aprendizaje con redes neuronales](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex4/ex4)|Ejercicios resueltos de redes neuronales con algoritmo de retropropagación.|
 |[Ejercicio 5: Regresión lineal regularizada y varianza vs. sesgo](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex5/ex5)|En este ejericio se utiliza la regresión lineal regularizada para estudiar modelos con distintas propiedades de sesgo y varianza.|
 |[Ejercicio 6: Support Vector Machines](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex6/ex6) | Ejercicios de implementación de SVM. |
+|[Ejercicio 7: K-means clustering y PCA (Análisis de componente principal)] (https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex7/ex7) | Ejercicios de clustering con kmeans y de Principal Component Analysis.| 
 
 ***
 <p align = "center">
