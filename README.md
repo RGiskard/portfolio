@@ -10,10 +10,7 @@
 3. [FruTIC](#frutic)
 4. [Computrabajo](#computrabajo)
 5. [Buenos Aires Data](#buenos-aires-data)
-6. [Pandas](#pandas)
-7. [Apache Spark](#apache-spark)
-8. [TensorFlow](#tensorflow)
-9. [scikit-learn](#scikit-learn)
+
 
 ***   
 
@@ -54,6 +51,9 @@ Lenguajes: R y Matlab.
 |[Compresión de imagen con k-means](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/image-compression-kmeans.ipynb) | Implementación del algoritmo de clustering k-means para compresión de imagenes. |
 |[Algoritmo PCA en un dataset 2D](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/PCA-in-2D.ipynb) | Aplicación del algoritmo PCA (Principal Component Analysis - Análisis de Componente Principal) para reducción de dimensionalidad. |
 |[Algoritmo PCA aplicado a dataset de imagenes de rostros](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/k-means/PCA-on-faces-dataset.ipynb) | Reducción de dimensionalidad en un dataset de rostros de personas a través de PCA. |
+|[Detección de outliers en 2D](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/anomaly%20detection/anomaly-detection-2D.ipynb) | Implementación de un algoritmo basado en una distribución Gaussiana para detectar outliers en un dataset de 2 dimensiones. |
+|[Detección de outliers en dataset multidimensional](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/coursera-machine-learning/R/anomaly%20detection/multidimensional-anomaly-detection.ipynb) | Aplicación de la distribución de Gauss para detectar outliers en un dataset multidimensional (12 atributos).|
+
 
 <h3> Ejercicios resueltos en Matlab </h3>
 | Ejercicio      | Descripción    |
@@ -65,6 +65,7 @@ Lenguajes: R y Matlab.
 |[Ejercicio 5: Regresión lineal regularizada y varianza vs. sesgo](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex5/ex5)|En este ejericio se utiliza la regresión lineal regularizada para estudiar modelos con distintas propiedades de sesgo y varianza.|
 |[Ejercicio 6: Support Vector Machines](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex6/ex6) | Ejercicios de implementación de SVM. |
 |[Ejercicio 7: K-means clustering y PCA (Análisis de componente principal)] (https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex7/ex7) | Ejercicios de clustering con kmeans y de Principal Component Analysis.| 
+|[Ejercicio 8: Detección de anomalías y sistemas de recomendación](https://github.com/martinehman/data-science-portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex8/ex8) | Ejercicios resueltos de sistemas de recomendación y detección de anomalías (outliers).|
 
 ***
 <p align = "center">
@@ -102,30 +103,3 @@ Web scraping y análisis de datos.
 
 Analisis exploratorio de datos.
 ***  
-<p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/pandas.png" alt="data-science-1" 
-  width="350">
-</p>
-
-## Pandas
-Ejercicios con librería de Python, Pandas.
-***  
-<p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/spark.png" alt="data-science-1" 
-  width="350">
-</p>
-
-## Apache-Spark
-Apache Spark en acción!
-***  
-
-<p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/scikit-learn.png" alt="data-science-1" 
-  width="350">
-</p>
-
-## scikit-learn
-Machine learning con la librería de Python scikit-learn.
-
-***  
-
