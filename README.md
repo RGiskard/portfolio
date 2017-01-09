@@ -1,7 +1,7 @@
 <img src="http://redescenica.com/wp-content/uploads/2014/02/pagina-en-construccion.jpg" alt="data-science-1" 
   width="400"><br>
 
-<h1 align="center">Data science portfolio</h1>
+<h1 align="center">Portfolio</h1>
 
 ##Indice
 
