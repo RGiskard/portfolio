@@ -41,6 +41,18 @@ Theta_grad = zeros(size(Theta));
 %
 
 
+hyp = X * Theta';
+diff = hyp - Y;
+diff2 = diff .^2;
+
+J = (1/2) * sum(sum(diff2 .* R)) + (lambda / 2) * sum(sum(X.^2)) + (lambda / 2) * sum(sum(Theta.^2));
+
+
+X_grad = (diff .* R) * Theta + lambda .* X;
+Theta_grad = (diff .* R)' * X + lambda .* Theta;
+
+
+
 
 
 
