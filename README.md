@@ -10,12 +10,12 @@
 3. [FruTIC](#frutic)
 4. [Computrabajo](#computrabajo)
 5. [Buenos Aires Data](#buenos-aires-data)
-
+6. [Kaggle](#kaggle)
 
 ***   
 
 <p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/properati.jpg" alt="data-science-1" 
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/properati.jpg" alt="data-science-1" 
   width="350">
 </p>
 
@@ -29,7 +29,7 @@ Lenguaje: R
 | [Exploración de datos de alquiler](http://nbviewer.jupyter.org/github/martinehman/data-science-portfolio/blob/master/properati/exploracion-de-datos.ipynb)  | Limpieza y exploración de datos de alquileres inmobiliarios de Properati.|
 ***  
 <p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/coursera.jpeg" alt="data-science-1" 
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/coursera.jpeg" alt="data-science-1" 
   width="350">
 </p>
 
@@ -69,7 +69,7 @@ Lenguajes: R y Matlab.
 
 ***
 <p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/frutic.png" alt="data-science-1" 
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/frutic.png" alt="data-science-1" 
   width="250">
 </p>
 
@@ -87,7 +87,7 @@ Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/po
 
 *** 
 <p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
   width="250">
 </p>
 
@@ -95,11 +95,26 @@ Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/po
 Web scraping y análisis de datos.
 ***  
 <p align = "center">
-  <img src="https://github.com/martinehman/data-science-portfolio/blob/master/images/buenos-aires-data.jpg" alt="data-science-1" 
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/buenos-aires-data.jpg" alt="data-science-1" 
   width="350">
 </p>
 
 ## Buenos-Aires-Data
 
 Analisis exploratorio de datos.
+***  
+
+<p align = "center">
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/kaggle.png" alt="data-science-1" 
+  width="350">
+</p>
+
+##Kaggle
+
+Usuario: https://www.kaggle.com/martinehman
+
+Scripts de competencias en Kaggle.
+
+Kaggle es una plataforma para competencias de modelado predictivo y analytics en donde organizaciones e investigadores publican datos y estadísticos y expertos en minería de datos compiten por quien genera el mejor modelo a partir de esos datos.
+
 ***  
