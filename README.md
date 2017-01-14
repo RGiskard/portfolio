@@ -124,6 +124,6 @@ Lenguaje: R
 | Notebook      | Descripción    |
 | ------------- |:--------------:|
 | [Titanic: Machine Learning from disaster](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/titanic/titanic.ipynb)  | Predicción de pasajeros que tienen mas probabilidad de sobrevivir.|
-| [Digit Recognizer](https://github.com/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano.|
+| [Digit Recognizer](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano.|
   
 ***  
