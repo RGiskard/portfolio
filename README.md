@@ -119,4 +119,11 @@ Scripts de competencias en Kaggle.
 
 Kaggle es una plataforma para competencias de modelado predictivo y analytics en donde organizaciones e investigadores publican datos y estadísticos y expertos en minería de datos compiten por quien genera el mejor modelo a partir de esos datos.
 
+Lenguaje: R
+
+| Notebook      | Descripción    |
+| ------------- |:--------------:|
+| [Titanic: Machine Learning from disaster](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/titanic/titanic.ipynb)  | Predicción de pasajeros que tienen mas probabilidad de sobrevivir.|
+| [Digit Recognizer](https://github.com/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano.|
+  
 ***  
