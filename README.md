@@ -121,9 +121,13 @@ Kaggle es una plataforma para competencias de modelado predictivo y analytics en
 
 Lenguaje: R
 
-| Notebook      | Descripción    |
-| ------------- |:--------------:|
-| [Titanic: Machine Learning from disaster](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/titanic/titanic.ipynb)  | Predicción de pasajeros que tienen mas probabilidad de sobrevivir.|
-| [Digit Recognizer](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano.|
+| Notebook      | Descripción    | Puntaje        |
+| ------------- |:--------------:|:--------------:|
+| [Titanic: Machine Learning from disaster](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/titanic/titanic.ipynb)  | Predicción de pasajeros que tienen mas probabilidad de sobrevivir.| 0.80861 |
+| [Digit Recognizer](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano con redes neuronales **multicapas** (librería MXNet).| 0.97014 |
+| [Digit Recognizer v2](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer-v2.ipynb) | Reconocimiento de dígitos escritos a mano con redes neuronales **convolucionales** (lenet, librería MXNet).| xx |
+| [Leaf Classification](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/leaf-classification.ipynb)| Clasificación de hojas a partir de imágenes.| xx |
+
+***
   
 ***  
