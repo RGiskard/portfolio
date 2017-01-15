@@ -125,5 +125,8 @@ Lenguaje: R
 | ------------- |:--------------:|
 | [Titanic: Machine Learning from disaster](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/titanic/titanic.ipynb)  | Predicción de pasajeros que tienen mas probabilidad de sobrevivir.|
 | [Digit Recognizer](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano.|
+| [Leaf Classification](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/leaf-classification.ipynb)| Clasificación de hojas a partir de imágenes.|
+
+***
   
 ***  
