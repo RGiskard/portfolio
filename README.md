@@ -127,7 +127,7 @@ Usuario: https://www.kaggle.com/martinehman
 
 Scripts de competencias en Kaggle.
 
-Kaggle es una plataforma para competencias de modelado predictivo y analytics en donde organizaciones e investigadores publican datos y estadísticos y expertos en minería de datos compiten por quien genera el mejor modelo a partir de esos datos.
+Kaggle es una plataforma para competencias de modelado predictivo y analytics en donde organizaciones e investigadores publican datos, y estadísticos y/o expertos en minería de datos compiten por quien genera el mejor modelo a partir de esos datos.
 
 Lenguaje: R
 
