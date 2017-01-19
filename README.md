@@ -15,12 +15,27 @@ martinehman90 (at) gmail (dot) com<br/>
 
 ##Indice
 
+1. [R](#r)
 1. [Properati](#properati)
 2. [Coursera](#coursera)
 3. [FruTIC](#frutic)
 4. [Computrabajo](#computrabajo)
 5. [Buenos Aires Data](#buenos-aires-data)
 6. [Kaggle](#kaggle)
+
+***   
+
+<p align = "center">
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/Rlogo.png" alt="data-science-1" 
+  width="250">
+</p>
+
+
+
+| Notebook      | Descripción    | 
+| ------------- |:--------------:|
+| [ejemplo1](link.ipynb)  | descripcion 1 |
+
 
 ***   
 
@@ -136,7 +151,6 @@ Lenguaje: R
 | [Titanic: Machine Learning from disaster](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/titanic/titanic.ipynb)  | Predicción de pasajeros que tienen mas probabilidad de sobrevivir.| 0.80861 |
 | [Digit Recognizer](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano con redes neuronales **multicapas** (librería MXNet).| 0.97014 |
 | [Digit Recognizer v2](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer-v2.ipynb) | Reconocimiento de dígitos escritos a mano con redes neuronales **convolucionales** (lenet, librería MXNet).| xx |
-| [Leaf Classification](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/leaf-classification.ipynb)| Clasificación de hojas a partir de imágenes.| xx |
 
 ***
   
