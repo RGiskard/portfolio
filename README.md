@@ -16,21 +16,23 @@ martinehman90 (at) gmail (dot) com<br/>
 ##Indice
 
 1. [R](#r)
-1. [Properati](#properati)
-2. [Coursera](#coursera)
-3. [FruTIC](#frutic)
-4. [Computrabajo](#computrabajo)
-5. [Buenos Aires Data](#buenos-aires-data)
-6. [Kaggle](#kaggle)
+2. [Properati](#properati)
+3. [Coursera](#coursera)
+4. [FruTIC](#frutic)
+5. [Computrabajo](#computrabajo)
+6. [Buenos Aires Data](#buenos-aires-data)
+7. [Kaggle](#kaggle)
+8. [Python](#python)
+9. [Scrapy](#scrapy)
 
 ***   
 
 <p align = "center">
-  <img src="https://github.com/martinehman/portfolio/blob/master/images/Rlogo.png" alt="data-science-1" 
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/r.png" alt="data-science-1" 
   width="250">
 </p>
 
-
+#r
 
 | Notebook      | Descripción    | 
 | ------------- |:--------------:|
@@ -152,6 +154,24 @@ Lenguaje: R
 | [Digit Recognizer](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer.ipynb) | Reconocimiento de dígitos escritos a mano con redes neuronales **multicapas** (librería MXNet).| 0.97014 |
 | [Digit Recognizer v2](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/kaggle/digit-recognizer/digit-recognizer-v2.ipynb) | Reconocimiento de dígitos escritos a mano con redes neuronales **convolucionales** (lenet, librería MXNet).| xx |
 
-***
-  
 ***  
+
+<p align = "center">
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/python.png" alt="data-science-1" 
+  width="350">
+</p>
+
+Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
+
+
+***  
+
+<p align = "center">
+  <img src="https://github.com/martinehman/portfolio/blob/master/images/scrapy.png" alt="data-science-1" 
+  width="350">
+</p>
+
+Scrapy es una plataforma colaborativa de código libre que corre en Python para extraer datos de páginas web usado para una serie de aplicaciones como minería de datos, procesamiento de información o registro histórico.
+
+***  
+
