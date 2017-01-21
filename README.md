@@ -29,10 +29,10 @@ martinehman90 (at) gmail (dot) com<br/>
 
 <p align = "center">
   <img src="https://github.com/martinehman/portfolio/blob/master/images/r.png" alt="data-science-1" 
-  width="250">
+  width="150" height="150">
 </p>
 
-#r
+#R
 
 | Notebook      | Descripción    | 
 | ------------- |:--------------:|
@@ -117,7 +117,7 @@ Análisis de los repositorios de datos del [FruTIC](http://frutic.inta.gob.ar/po
 *** 
 <p align = "center">
   <img src="https://github.com/martinehman/portfolio/blob/master/images/computrabajo.png" alt="data-science-1" 
-  width="250">
+  width="150" height="150">
 </p>
 
 ## Computrabajo
