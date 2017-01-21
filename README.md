@@ -161,6 +161,8 @@ Lenguaje: R
   width="350">
 </p>
 
+#Python
+
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
 
 
@@ -170,6 +172,8 @@ Python es un lenguaje de programación interpretado cuya filosofía hace hincapi
   <img src="https://github.com/martinehman/portfolio/blob/master/images/scrapy.png" alt="data-science-1" 
   width="350">
 </p>
+
+#Scrapy
 
 Scrapy es una plataforma colaborativa de código libre que corre en Python para extraer datos de páginas web usado para una serie de aplicaciones como minería de datos, procesamiento de información o registro histórico.
 
