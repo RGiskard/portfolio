@@ -13,7 +13,7 @@ martinehman90 (at) gmail (dot) com<br/>
 
 ***  
 
-##Indice
+## Indice
 
 1. [R](#r)
 2. [Properati](#properati)
