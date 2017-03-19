@@ -32,7 +32,7 @@ martinehman90 (at) gmail (dot) com<br/>
   width="150" height="150">
 </p>
 
-#R
+# R
 
 | Notebook      | Descripción    | 
 | ------------- |:--------------:|
