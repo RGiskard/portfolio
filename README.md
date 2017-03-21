@@ -67,15 +67,16 @@ Ejercicios hechos durante el curso de la Universidad de Stanford dictado por el 
 Lenguajes: R y Matlab.
 
 <h3> Ejercicios resueltos en R </h3>
-| Notebook      | Descripción    |
-| ------------- |:--------------:|
-| [Regresión lineal: gradiente descendente](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/regresion-lineal/regresion-lineal-ecuaciones-normales.ipynb) | Obtención de recta de regresión por medio de gradiente descendente. |
+
+| Ejercicio      | Descripción    |
+| -------------- |:--------------:|
+| [Regresión lineal: gradiente descendente](/http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/regresion-lineal/regresion-lineal-ecuaciones-normales.ipynb) | Obtención de recta de regresión por medio de gradiente descendente. |
 |[Regresión lineal: ecuaciones normales](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/regresion-lineal/regresion-lineal-ecuaciones-normales.ipynb) | Obtención de recta de regresión por el método de ecuaciones normales. |
 |[Regresión logística](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/regresion-logistica/regresion-logistica.ipynb)|Resolución de ejercicio de regresión logística utilizando una función de optimización para obtener los valores del costo y los parámetros a estimar.|
 |[Regresión logística regularizada](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/regresion-logistica/regresion-logistica-regularizada.ipynb)|Resolución de ejercicio de regresión logística regularizada utilizando la función optim() para obtener los valores ópitmos de theta.|
 |[Regresión logística multiclase](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/clasificacion-multiclase/logistic-regression/multiclass-logistic-regression.ipynb)| **Reconocimiento de digitos escritos a mano mediante regresión logística regularizada.** |
-|[Clasificación multiclase con redes neuronales (prop. hacia adelante)](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/clasificacion-multiclase/neural-network/feedforward-propagation-nn-multiclass-classification.ipynb) | **Reconocimiento de dígitos escritos a mano con redes neuronales utilizando propagación hacia adelante.**|
-|[Clasificación multiclase con redes neuronales (retropropagación)] (http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/clasificacion-multiclase/neural-network/backpropagation-nn-multiclass-classification.ipynb)|**Reconocimiento de dígitos escritos a mano con redes neuronales utilizando retropropagación.**|
+|[Clasificación multiclase con redes neuronales (prop. hacia adelante)](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/clasificacion-multiclase/neural-network/feedforward-propagation-nn-multiclass-classification.ipynb) | **Reconocimiento de dígitos escritos a mano con redes neuronales utilizando propagación hacia adelante.** |
+|[Clasificación multiclase con redes neuronales (retropropagación)](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/clasificacion-multiclase/neural-network/backpropagation-nn-multiclass-classification.ipynb) | **Reconocimiento de dígitos escritos a mano con redes neuronales utilizando retropropagación.** |
 |[Clustering con k-means en 2D](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/agrupamiento/k-means-clustering-2D.ipynb) | En este ejemplo se muestra una implementación del algoritmo de agrupamiento k-means en un dataset con dos atributos.|
 |[Compresión de imagen con k-means](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/agrupamiento/compresi%C3%B3n-im%C3%A1genes-kmeans.ipynb) | Implementación del algoritmo de clustering k-means para compresión de imagenes. |
 |[Algoritmo PCA en un dataset 2D](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/agrupamiento/an%C3%A1lisis-componentes-principales-2D.ipynb) | Aplicación del algoritmo PCA (Principal Component Analysis - Análisis de Componente Principal) para reducción de dimensionalidad. |
@@ -85,15 +86,16 @@ Lenguajes: R y Matlab.
 |[Sistema de recomendación: Filtrado colaborativo](http://nbviewer.jupyter.org/github/martinehman/portfolio/blob/master/coursera-machine-learning/R/sistemas-de-recomendacion/sistemas-recomendacion-filtrado-colaborativo.ipynb) | Implementación de sistema de recomendación sobre un dataset de ratings de películas.|
 
 <h3> Ejercicios resueltos en Matlab </h3>
+
 | Ejercicio      | Descripción    |
-| ------------- |:--------------:|
+| -------------- |:--------------:|
 |[Ejercicio 1: Regresión Lineal](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex1/ex1)|Ejercicios resueltos de regresión lineal simple y múltiple|
 |[Ejercicio 2: Regresión Logística](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex2/ex2)|Ejercicios resueltos de regresión logística.|
 |[Ejercicio 3: Clasificación multiclase y redes neuronales](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex3/ex3)|Ejericios resueltos de clasificación multiclase con regresión logística y redes neuronales|
 |[Ejercicio 4: Aprendizaje con redes neuronales](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex4/ex4)|Ejercicios resueltos de redes neuronales con algoritmo de retropropagación.|
 |[Ejercicio 5: Regresión lineal regularizada y varianza vs. sesgo](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex5/ex5)|En este ejericio se utiliza la regresión lineal regularizada para estudiar modelos con distintas propiedades de sesgo y varianza.|
 |[Ejercicio 6: Support Vector Machines](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex6/ex6) | Ejercicios de implementación de SVM. |
-|[Ejercicio 7: K-means clustering y PCA (Análisis de componente principal)] (https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex7/ex7) | Ejercicios de clustering con kmeans y de Principal Component Analysis.| 
+|[Ejercicio 7: K-means clustering y PCA (Análisis de componente principal)](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex7/ex7) | Ejercicios de clustering con kmeans y de Principal Component Analysis.| 
 |[Ejercicio 8: Detección de anomalías y sistemas de recomendación](https://github.com/martinehman/portfolio/tree/master/coursera-machine-learning/matlab/machine-learning-ex8/ex8) | Ejercicios resueltos de sistemas de recomendación y detección de anomalías (outliers).|
 
 ***
