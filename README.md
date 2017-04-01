@@ -24,7 +24,7 @@ martinehman90 (at) gmail (dot) com<br/>
 7. [Kaggle](#kaggle)
 8. [Python](#python)
 9. [Scrapy](#scrapy)
-10. [Apache Spark](#spark)
+10. [Apache Spark](#apache-spark)
 
 ***   
 
@@ -188,7 +188,7 @@ Scrapy es una plataforma colaborativa de código libre que corre en Python para 
   width="350">
 </p>
 
-# Apache Spark
+# Apache-Spark
 
 Apache Spark es un framework open source para el procesamiento de datos masivos diseñado con tres prioridades en mente: velocidad, facilidad de uso, y capacidades avanzadas de analítica.
 
