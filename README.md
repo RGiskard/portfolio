@@ -4,8 +4,8 @@
 <h1 align="center">Portfolio</h1> 
 
 Martín Darío Ehman<br/>
-Estudiante de Ingeniería en Informática<br/>
-Universidad Gastón Dachary - Posadas, AR<br/>
+Ingeniero en Informática - Universidad Gastón Dachary - Posadas, AR<br/>
+Estudiante Licenciatura en Estadística - Universidad Nacional de Tres de Febrero - Caseros, Buenos Aires, AR<br/>
 martinehman90 (at) gmail (dot) com<br/>
 <a href="https://ar.linkedin.com/pub/martin-ehman/ab/220/8b2">
   <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Martin Ehman's profile on LinkedIn">
